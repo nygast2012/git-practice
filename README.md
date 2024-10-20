@@ -1,2 +1,2 @@
 # git-practic
-no-fast-forwardブランチから変更
+conflictブランチで変更
