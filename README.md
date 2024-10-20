@@ -1,2 +1,2 @@
-# git-practice
-リモートリポジトリから変更
+# git-practic
+new-featureブランチから変更
