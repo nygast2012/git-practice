@@ -1,2 +1,2 @@
 # git-practic
-new-featureブランチから変更
+no-fast-forwardブランチから変更
