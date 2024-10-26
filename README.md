@@ -1,2 +1,2 @@
 # git-practic
- github上で更新
+ conflict remote上で更新
