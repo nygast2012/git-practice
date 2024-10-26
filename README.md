@@ -1,2 +1,2 @@
 # git-practic
-conflictブランチで変更
+ github上で更新
