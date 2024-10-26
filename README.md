@@ -1,2 +1,2 @@
 # git-practic
- github上で更新
+ github上で更新しました
